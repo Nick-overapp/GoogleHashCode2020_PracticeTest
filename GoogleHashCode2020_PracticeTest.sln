@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleHashCode2020_PracticeTest", "GoogleHashCode2020_PracticeTest.csproj", "{255827E5-4FBB-4E2A-A131-E833BEA742F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255827E5-4FBB-4E2A-A131-E833BEA742F3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{255827E5-4FBB-4E2A-A131-E833BEA742F3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{255827E5-4FBB-4E2A-A131-E833BEA742F3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{255827E5-4FBB-4E2A-A131-E833BEA742F3}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
